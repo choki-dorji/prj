@@ -170,5 +170,5 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_HOST_USER = '12190002.gcit@rub.edu.bt'
-EMAIL_HOST_PASSWORD = '22-04-00'
+EMAIL_HOST_PASSWORD = 'fjiwbbexltbirqzd'
 
